@@ -1,4 +1,4 @@
-<img width="371" alt="image" src="https://github.com/fathinmputra/assignment3_webgl/assets/103252800/d71e98f5-e805-422b-a304-53de82a0ca8d">**<br>Nama : Fathin Muhashibi Putra**
+**<br>Nama : Fathin Muhashibi Putra**
 **<br>NRP : 5025211229**
 **<br>Kelas : Grafika Komputer A**
 **<br>Tahun : 2023**
